@@ -17,7 +17,7 @@ That should produce a "report.xlsx" file.
 Place that file in the same directory as this repoistory, then in matlab run
 
 ```
-generate_bib_from_report
+generate_bib_from_res_report
 ```
 and you'll get something in a format which can be dropped into an FWP or report, e.g., 
 
